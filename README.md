@@ -12,7 +12,6 @@ AQSA AHMED
 - 👨‍💻 I’m currently working on JavaScript Frameworks **NodeJS/ReactJS**.
 - 📚 I’m interested in full stack development technologies. 
 - 💪🏼 Future Goals: innovate something usefull
-- 🌱 I’m currently Data Science.
 - ⚡ Fun fact: I love to read and write books. 
 
 
